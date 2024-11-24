@@ -5,5 +5,7 @@
     <color name="grey">#6D6A6A</color>
     <color name="primaryColor">#2C2A27</color>
     <color name="red">#FF0000</color>
-
+    <color name="purple">#AE49ED</color>
+    <color name="primary_color">#6200EE</color>
+    <color name="primary_dark_color">#3700B3</color>
 </resources>
